@@ -1,4 +1,5 @@
-# Hello! I'm slmpc! 😊
+# Hello! I'm Chen Meng! 😊
 
-![Overview](https://github-readme-stats.vercel.app/api?username=slmpc&count_private=true&include_all_commits=false&card_width=100&title_color=CC88BB&line_height=27)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slmpc&&langs_count=3&card_height=500&card_width=100)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slmpc&show_icons=true&card_width=500&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slmpc&&langs_count=5&card_height=500&card_width=500&theme=dracula)
